@@ -1,0 +1,20 @@
+{
+  "name": "angular",
+  "version": "0.1",
+  "description": "Just a learning dev",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "Gabriel"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
